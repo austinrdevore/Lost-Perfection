@@ -1,0 +1,1 @@
+Text-based Adventure Game coded in Python. You were a perfect child born of prophecy, destined to defeat the evil king Diablo. To prevent his defeat, Diablo attacks and shatters your soul, distributing the fragments to his allies. Can you defeat them and regain the fragments of your soul, and with them, your superhuman senses and abilities?
